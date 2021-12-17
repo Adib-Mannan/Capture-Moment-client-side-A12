@@ -1,0 +1,33 @@
+.form-style{
+    margin-top: 80px;
+    margin-right: 120px;
+    padding-left: 110px;
+    padding-bottom: 20px;
+    border: 1px solid gray;
+}
+.custom-bg-color{
+    background-color:#00CED1;
+}
+.custom-color{
+    color: #00CED1;
+}
+.custom-black-color{
+    color: black;
+}
+.cust
+.shipping-form{
+    margin : 80px;
+    margin-left: 20%;
+}
+.shipping-form input {
+    display: block;
+    margin-top: 30px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.error{
+    color: red;
+}

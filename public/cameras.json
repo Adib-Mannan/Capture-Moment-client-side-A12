@@ -1,0 +1,110 @@
+[
+    {
+        "camera": 1,
+        "name": "Camera pro 440",
+        "reviews": 33,
+        "img": "https://i.ibb.co/pRyBbm8/camera-1.webp",
+        "price": 440,
+        "features": "24.1 Megapixel CMOS (APS-C) Sensor with ISO 100-6400 (H: 12800),DIGIC 4+ Image Processor,Built-in Wi-Fi Capability,Built-in NFC Capability,Remote Shooting and Wireless Printing ,9-point AF System and AI Servo AF,Optical Viewfinder with Approx. 95% Viewing Coverage,3.0-inch LCD with 920,000 Dots,Scene Intelligent Auto Mode",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 2,
+        "name": "Red Digital Camera",
+        "reviews": 60,
+        "img": "https://i.ibb.co/9cJm2Yz/camera-2.webp",
+        "price": 275,
+        "features": "Built‑in double exposure - Get two frames in the one Polaroid photograph. Dreamy, artistic, and ready to add some drama to your photography. Self‑timer - Sometimes you need proof. Get it with the self-timer. In just one tap, you have got 9 seconds to gather your friends and smile. Accurate flash: A more human-friendly flash to make everyone look like they should. Rechargeable battery: Be ready for every moment with built-in rechargeable battery and USB charging cable.",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 3,
+        "name": "Retro Digital Camera",
+        "reviews": 30,
+        "img": "https://i.ibb.co/sJrqzz2/camera-3.webp",
+        "price": 245,
+        "features": "A Continued Standard of Excellence in Image Quality,Ready to Follow the Story,Made for Video Professionals Everywhere,Performance at Your Fingertips,Made for the Elements ",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 4,
+        "name": "Nikdi DSLR Camera",
+        "reviews": 43,
+        "img": "https://i.ibb.co/WsWYtYM/camera-4.webp",
+        "price": 285,
+        "features": "Subject Detection From Deep Learning,Advanced Eye AF For People & Animals,3D Tracking & Subject Detection,Focus In The Dark,A Groundbreaking New Processing Engine,Keep Your Finger Down. 1000 Image Buffer Capacity,The Fastest Write Speeds, Dual CFexpress Tybe B",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 5,
+        "name": "Smart 4k Camera",
+        "reviews": 93,
+        "img": "https://i.ibb.co/n7mbjGj/camera-5.jpg",
+        "price": 599,
+        "features": "Back-illuminated 42.4 MP full-frame sensor,Further enhanced image processing engine,A quantum leap in AF performance,Eye AF with doubled tracking performance,Up to 10fps with AF/AE tracking,Focal-plane phase-detection AF supports A-mount lenses,Up to 76 images in continuous shooting,Anti-flicker shooting",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 6,
+        "name": "Axor Digital camera(pink)",
+        "reviews": 73,
+        "img": "https://i.ibb.co/3pJ4RVG/camera-6.jpg",
+        "price": 295,
+        "features": "High Image Quality with a Back-illuminated Stacked 24.1 Megapixel Full-frame CMOS Sensor - Canon’s first full-frame, back-illuminated stacked CMOS image sensor in the EOS R3 delivers substantially faster read-out speeds and produces much lower  distortion than previous EOS models. ",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 7,
+        "name": "Neko Digital Camera",
+        "reviews": 99,
+        "img": "https://i.ibb.co/M6bxx4r/camera-7.jpg",
+        "price": 199,
+        "features": "DIGIC X Image Processor with an ISO range of 100-102400; Expandable to 2048001 - The EOS R3 camera features a powerful DIGIC X Image Processor, enabling high-performance operation and coordination or processes such as Dual Pixel CMOS AF II, Image Stabilization, image processing, and video functionality.",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 8,
+        "name": "Retro pro 600",
+        "reviews": 83,
+        "img": "https://i.ibb.co/2hntk4c/camera-8.jpg",
+        "price": 285,
+        "features": "High-speed continuous shooting of up to approx. 30 fps with electronic (silent) shutter and up to 12 fps with Mechanical Shutter - Delivering incredible performance at speeds of up to 12 fps with the mechanical shutter and up to 30 fps with the electronic",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 9,
+        "name": "Polaid camera 300",
+        "reviews": 60,
+        "img": "https://i.ibb.co/BL5kM8k/camera-9.jpg",
+        "price": 325,
+        "features": "Suppressed rolling shutter distortion - Thanks to the high-speed readout of the new sensor, the EOS R3 delivers less rolling shutter distortion in fast moving images.",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 10,
+        "name": "Plus CoolPix SS3",
+        "reviews": 78,
+        "img": "https://i.ibb.co/tpXVqLp/camera-10.jpg",
+        "price": 215,
+        "features": "Improved Dual Pixel CMOS AF with 1,053 AF Points featuring Vehicle Detection as well as Eye, Face, Head, and Animal Detection - The EOS R3 camera’s highly responsive Dual Pixel CMOS AF II system has been improved with features such as the incredible 1,053 Automatic .",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 11,
+        "name": "Plus CoolPix SS333",
+        "reviews": 78,
+        "img": "https://i.ibb.co/tpXVqLp/camera-10.jpg",
+        "price": 215,
+        "features": "Improved Dual Pixel CMOS AF with 1,053 AF Points featuring Vehicle Detection as well as Eye, Face, Head, and Animal Detection - The EOS R3 camera’s highly responsive Dual Pixel CMOS AF II system has been improved with features such as the incredible 1,053 Automatic .",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    },
+    {
+        "camera": 12,
+        "name": "Plus CoolPix SS345",
+        "reviews": 78,
+        "img": "https://i.ibb.co/tpXVqLp/camera-10.jpg",
+        "price": 215,
+        "features": "Improved Dual Pixel CMOS AF with 1,053 AF Points featuring Vehicle Detection as well as Eye, Face, Head, and Animal Detection - The EOS R3 camera’s highly responsive Dual Pixel CMOS AF II system has been improved with features such as the incredible 1,053 Automatic .",
+        "specifications": "Multimedia Speakers .120 watts peak .Front-facing subwoofer .Records 4K/30fps (60mbps), 1080p/120fps, 720p/240fps video .Built-in 2.19″ LCD touchscreen. Gorilla Glass Retina"
+    }
+]

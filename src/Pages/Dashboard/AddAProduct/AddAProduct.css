@@ -1,0 +1,22 @@
+.body{
+    background-color: #152733;
+}
+.form{
+    /* margin-top: 20px; */
+    /* border: 1px solid gray ; */
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+}
+@media only screen and (max-width : 688px) {
+    .form{
+        margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    }
+}

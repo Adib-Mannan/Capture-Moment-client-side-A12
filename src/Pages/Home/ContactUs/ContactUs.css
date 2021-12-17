@@ -1,0 +1,10 @@
+.contact-container{
+    background-image: url('../../../images/Banner/camera-1.jpg');
+    background-size: cover;
+    margin: 50px;
+}
+@media only screen and (max-width : 688px) {
+    .contact-container{
+      margin:0 ;  
+    }
+}

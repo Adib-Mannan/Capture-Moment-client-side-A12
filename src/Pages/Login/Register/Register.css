@@ -1,0 +1,22 @@
+.body{
+    background-color: #152733;
+}
+/* .form{
+    margin-top: 20px;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+} */
+@media only screen and (max-width : 688px) {
+    .form{
+        margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+        
+    }
+}
